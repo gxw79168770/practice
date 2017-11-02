@@ -15,6 +15,7 @@ public class ProductModel {
 	// 图片名称
 	private String picture;
 	
+	private String country;
 	
 	public String getPid() {
 		return pid;
